@@ -24,11 +24,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZABIDIN12&layout=compact&theme=radical)
 
 ---
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FAIZABIDIN12&show_icons=true&theme=radical)
-
----
 
 ## 🔥 GitHub Streak
 
