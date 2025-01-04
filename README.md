@@ -24,6 +24,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZABIDIN12&layout=compact&theme=radical)
 
 ---
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FAIZABIDIN12&show_icons=true&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=FAIZABIDIN12&theme=radical&hide_border=true)
+
+---
 
 👤 **Faiz Abidin**  
 📫 Feel free to connect with me or check out my projects!
