@@ -19,5 +19,11 @@
 
 ---
 
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
 👤 **Faiz Abidin**  
 📫 Feel free to connect with me or check out my projects!
