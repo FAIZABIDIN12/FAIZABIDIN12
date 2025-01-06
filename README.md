@@ -33,3 +33,4 @@
 
 👤 **Faiz Abidin**  
 📫 Feel free to connect with me or check out my projects!
+Portofolio: https://faizabidin12.github.io/
